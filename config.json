@@ -1,12 +1,12 @@
 {
     "twitter":{
-        "consumer_key":"jG83a9t5fqC65r0zRnkYfhQg1",
-        "consumer_secret":"ny4wMW083K5jHvVrEBmKqQooDd0L4oaCyd19La1PYXLokpsCie",
-        "access_token":"1158331390011813892-xrcP53ZhG1MnIuJiGnaKt8aW0yyfar",
-        "access_token_secret":"sjw0Z3e7Wq1L2DAhz43ivwLMSlywn6tyA0THfQH0RU9II"
+        "consumer_key":"",
+        "consumer_secret":"",
+        "access_token":"",
+        "access_token_secret":""
     },
     "mongodb":{
-        "user":"admin",
-        "password":"XNz182Ugz2b34EFG"
+        "user":"",
+        "password":""
     }
 }
